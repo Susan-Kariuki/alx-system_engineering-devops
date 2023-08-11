@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 777 u+g 400 a hello
+chown 777 u+g 400 a hello
